@@ -34,6 +34,7 @@ public class Filme {
 	public int getAvaliacao() {
 		return rating;
 	}
+	// comment
 	public void setAvaliacao(int avaliacao) {
 		this.rating = avaliacao;
 	}
